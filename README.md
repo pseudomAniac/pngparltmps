@@ -7,10 +7,14 @@ I have scanned and extracted the information from the Papua New Guinea National 
 The data stored here is then loaded into the index.html javascript file which is then displayed using visual charts designed with the help of d3js
 
 #how to make it work
->clone this repo
->cd into the pngparltmps folder
->run npm install
->then finally run node app.js
+> clone this repo
+
+> cd into the pngparltmps folder
+
+> run npm install
+
+> then finally run node app.js
+
 > go to your browser and load localhost:3000
 
 >enjoy
